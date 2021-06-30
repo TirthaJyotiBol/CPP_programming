@@ -10,4 +10,12 @@ int main(){
     cin>>b;
     
     cout<<"The sum of the two numbers are : "<<a+b<<endl;
+    
+    cout<<"The substract of the two numbers are : "<<a-b<<endl;
+    
+    cout<<"The division of the two numbers are : "<<a/b<<endl;
+    
+    cout<<"The multiplication of the two numbers are : "<<a*b<<endl;
+    
+    cout<<"The modulo of the two numbers are : "<<a%b<<endl;
 }
