@@ -1,0 +1,22 @@
+# include <iostream>
+using namespace std;
+
+int main()
+{
+    // for loop
+    for(int i=0;i<12;i++){cout<<"hello World"<<endl;}
+    
+    int i=0;
+    
+    //While loop 
+    while(i<=20)
+    { cout<<i<<endl;    i++;}
+    
+    
+    //dowhile
+    do{ cout<<"one"<<endl; i++;}
+    while(i<=3);
+    
+    
+    
+}
