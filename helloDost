@@ -1,6 +1,7 @@
 # include <iostream>
 using namespace std;
 int main(){
-    cout<<"Hello Dost";
-    return 0;
+  cout<<"Hello Dost"<<endl;  //endl -> end line (start with a new line)
+  cout<<"new line";
+  return 0;
 }
