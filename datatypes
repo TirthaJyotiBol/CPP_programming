@@ -1,0 +1,25 @@
+# include <iostream>
+using namespace std;
+int main(){
+    int a,b,c;
+    int mathsMArks=22;
+    int science = 45;
+    cout<<"Marks in Science is "<<science<<endl;
+    cout<<"marks in maths is "<<mathsMArks<<endl;
+    cout<<"Overall marks is "<<mathsMArks+science<<endl;
+    
+    We have - Short , long ,int , long long // 
+    
+    float num = 28.98;
+    cout<<"number is : "<<num;
+    
+    
+    we can use const to keep the value same all over the program
+    
+    int const num = 32;
+    cout<<"without change : "<<num<<endl;
+     num =23;
+    cout<<"after change :" <<num<<endl;  // give ERROR
+
+
+ }
